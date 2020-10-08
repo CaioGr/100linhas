@@ -1,0 +1,111 @@
+#include <iostream>
+
+ using namespace std;
+
+    int meudinheiro;
+
+        int main(){
+
+            cout << "meu dinheiro e R$" << endl;
+                cin >> meudinheiro;
+
+                     if(meudinheiro == 2000){
+                cout << "vou levar o pc" << endl;
+            }else if(meudinheiro == 100){
+                cout << "vou levar um teclado" << endl;
+            }else if(meudinheiro <= 50){
+                cout << "vou levar um bom mouse" << endl;
+            }else if(meudinheiro <= 200){
+                cout << "vou levar um teclado gamer" << endl;
+            }else if(meudinheiro <= 300){
+                cout << "vou levar um teclado e um mouse gamer" << endl;
+            }else if(meudinheiro <= 400){
+                cout << "vou levar um processador i3 para o futuro pc" << endl;
+            }else if(meudinheiro <= 500){
+                cout << "vou levar um teclado mecanico" << endl;
+            }else if(meudinheiro <= 600){
+                cout << "vou levar dois hd de 1 tera" << endl;
+            }else if(meudinheiro <= 900){
+                cout << "compro um notebook usado" << endl;
+            }else if(meudinheiro == 1000){
+                cout << "vou levar um notebook usado e um case para ele" << endl;
+            }else if(meudinheiro == 1200){
+                cout << "aaaa desisto do pc e compro logo um ceular novo" << endl;
+            }else if(meudinheiro == 80){
+                cout << "um polistation 1" << endl;
+            }else if(meudinheiro == 1300){
+                cout << "aaaa nao quero um pc  vou levar um violao";
+            }else if(meudinheiro == 1400){
+                cout << "levo um console ps3" << endl;
+            }else if(meudinheiro == 1500){
+                cout << "levo um 360" << endl;
+            }else if(meudinheiro == 1550){
+                cout << "levo um 360 e 5 jogos" << endl;
+            }else if(meudinheiro == 1600){
+                cout << "levo uma piscininha do walmart" << endl;
+            }else if(meudinheiro == 1650){
+            cout << "levo um redmi note 9" << endl;
+            }else if(meudinheiro == 1700){
+                cout << "levo 3000 pacotes de arroz"  << endl;
+            }else if(meudinheiro == 1750  ){
+                cout << "compro um kit faber castel para desenhar" << endl;
+            }else if(meudinheiro == 1800){
+                cout << "pago o primeiro mes de aluguel do apartamento" << endl;
+            }else if(meudinheiro == 1850){
+                cout << "adianto 50 reais do alugueu do apartamendo" << endl; 
+            }else if(meudinheiro == 1900){
+                cout << "compro uum celular para o meu pai" << endl;
+            }else if(meudinheiro == 2100){
+                cout << "ajudo com um bom dinheiro para meus pais" << endl;
+            }else if(meudinheiro == 2150){
+                cout << "ajudo minha vo " << endl;
+            }else if(meudinheiro == 2200){
+                cout << "compro ar condicionado para o meu quarto" << endl;
+            }else if(meudinheiro == 2250){
+                cout << "compro 4 super ventiladores" << endl;
+            }else if(meudinheiro == 2300){
+                cout << "compro um iphpne para revender" << endl;
+            }else if(meudinheiro == 2350){
+                cout << "tiro caarta de motorista" << endl;
+            }else if(meudinheiro == 2400){
+                cout << "compro um ar condicionado para o meu pai" << endl;
+            }else if(meudinheiro == 2600){
+                cout << "compro um carro usado e antigo" << endl;
+            }else if(meudinheiro == 3000){
+                cout << "pecas de pc para revender" << endl;
+            }else if(meudinheiro == 3500){
+                cout << "pago o aluguel da casa na pria" << endl;
+            }else if(meudinheiro == 5000){
+                cout << "pago a minha cirurgia " << endl;
+            }else if(meudinheiro == 10000){
+                cout << "compro uma casa de praia " << endl;
+            }else if(meudinheiro == 20000){
+                cout << "abro minh empresa" << endl;
+            }else if(meudinheiro == 25000){
+                cout << "compro um carrao para meu pai" << endl;
+            }else if(meudinheiro == 30000){
+                cout << "compro um ap" << endl;
+            }else if(meudinheiro == 40000){
+                cout << "compro uma caasa para meus pais" << endl;
+            }else if(meudinheiro == 50000){
+                cout << "abro uma imobiliaria" << endl;
+            }else if(meudinheiro == 60000){
+                cout << "abro um mercado" << endl;
+            }else if(meudinheiro == 500000){
+                cout << "compro uma super mancao" << endl;
+            }else if(meudinheiro == 100000){
+                cout << "varias casas para alugar" << endl;
+            }else if(meudinheiro == 200000){
+                cout << "faço casas para meus filhos" << endl;
+            }else if(meudinheiro == 300000){
+                cout << "abro uma loja de informatica" << endl;
+            }
+
+
+        }
+
+      
+
+           
+
+            
